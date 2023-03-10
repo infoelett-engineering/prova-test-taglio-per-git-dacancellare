@@ -1,0 +1,28 @@
+Universal Rendering Pipeline. 
+
+--------
+
+Antique Surgical Tools it's a lowpoly game ready set of models with PBR textures. 
+
+This set includes 8 different models:
+- Surgical Saw (582 tris)
+- Surgical Dish (848 tris)
+- Tweezers (168 tris)
+- Three types of Forceps (824 / 348 / 456 tris)
+- Two types of Scalpels (172 / 206 tris)
+
+--------
+
+UVs: channel 0: overlapping (for Albedo, Normal, Metallic, AO); channel 1: non-overlapping (for baking lightmaps).
+
+Textures resolution: 2048x2048 (Albedo, MetallicSmoothness, Normal, AO). Textures format: TGA.
+
+Number of Unique Meshes: 8
+Number of Prefabs: 8
+Number of Materials: 2
+
+
+--------
+
+If you have any questions, please write me on e-mail.
+My e-mail: tatiana.gladkaya11@gmail.com
